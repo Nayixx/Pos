@@ -1,0 +1,17 @@
+D:\Point of Sale\Point of Sale\Point of Sale\bin\Debug\net6.0-windows\Point of Sale.exe
+D:\Point of Sale\Point of Sale\Point of Sale\bin\Debug\net6.0-windows\Point of Sale.deps.json
+D:\Point of Sale\Point of Sale\Point of Sale\bin\Debug\net6.0-windows\Point of Sale.runtimeconfig.json
+D:\Point of Sale\Point of Sale\Point of Sale\bin\Debug\net6.0-windows\Point of Sale.dll
+D:\Point of Sale\Point of Sale\Point of Sale\bin\Debug\net6.0-windows\Point of Sale.pdb
+D:\Point of Sale\Point of Sale\Point of Sale\obj\Debug\net6.0-windows\Point of Sale.vbproj.AssemblyReference.cache
+D:\Point of Sale\Point of Sale\Point of Sale\obj\Debug\net6.0-windows\Point_of_Sale.Form1.resources
+D:\Point of Sale\Point of Sale\Point of Sale\obj\Debug\net6.0-windows\Point of Sale.vbproj.GenerateResource.cache
+D:\Point of Sale\Point of Sale\Point of Sale\obj\Debug\net6.0-windows\Point of Sale.GeneratedMSBuildEditorConfig.editorconfig
+D:\Point of Sale\Point of Sale\Point of Sale\obj\Debug\net6.0-windows\Point of Sale.AssemblyInfoInputs.cache
+D:\Point of Sale\Point of Sale\Point of Sale\obj\Debug\net6.0-windows\Point of Sale.AssemblyInfo.vb
+D:\Point of Sale\Point of Sale\Point of Sale\obj\Debug\net6.0-windows\Point of Sale.vbproj.CoreCompileInputs.cache
+D:\Point of Sale\Point of Sale\Point of Sale\obj\Debug\net6.0-windows\Point of Sale.dll
+D:\Point of Sale\Point of Sale\Point of Sale\obj\Debug\net6.0-windows\refint\Point of Sale.dll
+D:\Point of Sale\Point of Sale\Point of Sale\obj\Debug\net6.0-windows\Point of Sale.pdb
+D:\Point of Sale\Point of Sale\Point of Sale\obj\Debug\net6.0-windows\Point of Sale.genruntimeconfig.cache
+D:\Point of Sale\Point of Sale\Point of Sale\obj\Debug\net6.0-windows\ref\Point of Sale.dll
